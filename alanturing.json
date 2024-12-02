@@ -1,0 +1,132 @@
+{
+    "title": {
+      "text": {
+        "headline": "Alan Turing and the Turing Test: A Timeline",
+        "text": "Explore the life of Alan Turing and the development of the Turing Test, a foundational concept in artificial intelligence."
+      },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+        "caption": "Alan Turing at age 16.",
+        "credit": "Wikimedia Commons"
+      }
+    },
+    "events": [
+      {
+        "start_date": {
+          "year": "1912",
+          "month": "06",
+          "day": "23"
+        },
+        "text": {
+          "headline": "Birth of Alan Turing",
+          "text": "Alan Mathison Turing was born in Maida Vale, London. He would go on to become one of the most influential figures in mathematics, computer science, and artificial intelligence."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Blue_plaque_Maida_Vale.jpg",
+          "caption": "Blue plaque commemorating Turing's birthplace in Maida Vale, London.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1936"
+        },
+        "text": {
+          "headline": "Publishes the Turing Machine Concept",
+          "text": "Turing publishes his groundbreaking paper 'On Computable Numbers,' introducing the Turing Machine, a foundational model for computation."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Turing_Machine.svg",
+          "caption": "Diagram of a Turing Machine.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1943"
+        },
+        "text": {
+          "headline": "Work at Bletchley Park",
+          "text": "Turing plays a pivotal role in breaking the German Enigma code during World War II, significantly aiding the Allied war effort."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bletchley_Park_Mansion.jpg",
+          "caption": "Bletchley Park, where Turing worked during World War II.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1950"
+        },
+        "text": {
+          "headline": "Publishes 'Computing Machinery and Intelligence'",
+          "text": "Turing proposes the concept of the Turing Test in this seminal paper, posing the question, 'Can machines think?'"
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_Test_Graphic.svg",
+          "caption": "Diagram illustrating the Turing Test.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1952"
+        },
+        "text": {
+          "headline": "Conviction and Prosecution",
+          "text": "Turing is convicted of 'gross indecency' due to his homosexuality, leading to his chemical castration. This marked a tragic turn in his life."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Alan_Turing_Statue%2C_Sackville_Park%2C_Manchester.jpg",
+          "caption": "Statue of Alan Turing in Sackville Park, Manchester.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "1954",
+          "month": "06",
+          "day": "07"
+        },
+        "text": {
+          "headline": "Death of Alan Turing",
+          "text": "Alan Turing dies from cyanide poisoning at the age of 41. While his death is widely believed to have been a suicide, the circumstances remain uncertain."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Turing_grave.png",
+          "caption": "Alan Turing's grave in Wilmslow Cemetery.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2009"
+        },
+        "text": {
+          "headline": "Official Apology from the British Government",
+          "text": "The British Prime Minister, Gordon Brown, issues an apology on behalf of the government for Turing's treatment."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Gordon_Brown_2009.jpg",
+          "caption": "Gordon Brown, who issued the apology.",
+          "credit": "Wikimedia Commons"
+        }
+      },
+      {
+        "start_date": {
+          "year": "2013"
+        },
+        "text": {
+          "headline": "Posthumous Pardon",
+          "text": "Queen Elizabeth II grants a posthumous royal pardon to Alan Turing for his 1952 conviction."
+        },
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Elizabeth_II_in_2015.jpg",
+          "caption": "Queen Elizabeth II.",
+          "credit": "Wikimedia Commons"
+        }
+      }
+    ]
+  }
+  
